@@ -10,6 +10,25 @@ This is my commitment to:
 - Explore real-world problems at the intersection of **engineering, data, and AI**
 - Develop consistency through a **system**, not motivation
 
+## 🧩 Submit a Problem Statement
+
+Have an interesting problem, dataset, or workflow you want explored?
+
+👉 **[Submit it via GitHub Issues](../../issues/new?labels=problem-submission)** (use the provided template).
+
+Selected problems will be:
+- Solved as part of the **52 Weeks × 52 Projects** challenge
+- Fully documented with code and explanations
+- Credited to the contributor
+
+This repository is built around **learning in public, real problems, real solutions**.
+
+[Learn more about the pipeline →](./docs/PIPELINE.md)
+
+---
+
+
+
 ## 🧩 Project Scope
 
 Each week's project falls into one of these categories:
