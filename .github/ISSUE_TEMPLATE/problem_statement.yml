@@ -1,0 +1,55 @@
+name: "🧩 Submit a Problem Statement"
+description: "Propose a problem or workflow for the 52 Weeks × 52 Projects challenge"
+title: "[PROBLEM]: "
+labels: ["problem-submission"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem Description"
+      description: "Clearly explain the problem you want solved or workflow to explore"
+      placeholder: "What is the problem? What would make this project valuable?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domain
+    attributes:
+      label: "Domain"
+      description: "Which domain does this fit?"
+      options:
+        - "Data Science / Analytics"
+        - "Machine Learning / AI"
+        - "Engineering / Simulation"
+        - "Automation / Tools"
+        - "Open Source / Library"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: dataset
+    attributes:
+      label: "Dataset / Resources (Optional)"
+      description: "Provide links to datasets, papers, tutorials, or references that would help"
+      placeholder: "e.g., Kaggle link, research paper, GitHub repo, tutorial"
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected Outcome"
+      description: "What would a successful solution look like?"
+      placeholder: "e.g., A model with X accuracy, a script that does Y, a visualization showing Z"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: "Why This Problem? (Optional)"
+      description: "Why is this problem interesting or important to you?"
+      placeholder: "Share your motivation or use case"
+    validations:
+      required: false
