@@ -66,7 +66,7 @@ Each README includes:
 
 | Week | Project | Category | Status | Link |
 |------|---------|----------|--------|------|
-| 1 | TBA | TBA | 🔄 Upcoming | [week-01](./week-01-coming-soon) |
+| 1 | System Setup | Engineering | 🔄 Upcoming | [projects/week-01](./week-01-coming-soon) |
 | 2 | Data Preprocessing | ML & Data Science | 🟡 In Progress | [week-2](./week-2) || ... | ... | ... | ... | ... |
 
 ## 🤝 Collaboration Welcome
