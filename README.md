@@ -67,8 +67,7 @@ Each README includes:
 | Week | Project | Category | Status | Link |
 |------|---------|----------|--------|------|
 | 1 | TBA | TBA | 🔄 Upcoming | [week-01](./week-01-coming-soon) |
-| 2 | TBA | TBA | 🔄 Upcoming | [week-02](./week-02-coming-soon) |
-| ... | ... | ... | ... | ... |
+| 2 | Data Preprocessing | ML & Data Science | 🟡 In Progress | [week-2](./week-2) || ... | ... | ... | ... | ... |
 
 ## 🤝 Collaboration Welcome
 
@@ -102,6 +101,7 @@ If selected, I'll build a project around it and **credit you** in the week's REA
 
 ---
 
-**Week 1 starts soon. ⚙️**
-
+**Week 1:** System setup & repo structure ✅  
+**Week 2:** Data preprocessing pipeline 🟡 (in progress)
+**Week 3+:** More projects coming soon. Building momentum.
 #52Weeks52Projects #BuildInPublic #GitHub #Engineering #DataScience #MachineLearning #OpenSource #ProofOfWork
