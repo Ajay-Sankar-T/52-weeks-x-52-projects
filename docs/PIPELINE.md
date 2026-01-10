@@ -7,25 +7,25 @@ This document outlines the end-to-end system that powers the 52-week project cha
 The pipeline converts **problems → projects → execution → documentation → public learning**.
 
 ```
-┌────────────────────────────────┐
+┌────────────────────────────────────┐
 │ PROBLEM SUBMISSION (GitHub Issues) │ 
-└────────────────────────────────┘
+└────────────────────────────────────┘
                      ⬇️
-        ┌─────────────────┐
+        ┌────────────────────┐
         │ SELECTION & INTAKE │
-        └─────────────────┘
+        └────────────────────┘
                      ⬇️
-     ┌────────────────────┐
+     ┌────────────────────────────────┐
      │ EXECUTION (Code, Experiments)  │
-     └────────────────────┘
+     └────────────────────────────────┘
                      ⬇️
-       ┌─────────────────┐
+       ┌────────────────────────────┐
        │ DOCUMENTATION & REFLECTION │
-       └─────────────────┘
+       └────────────────────────────┘
                      ⬇️
-         ┌───────────┐
+         ┌─────────────────┐
          │ PUBLISH & SHARE │
-         └───────────┘
+         └─────────────────┘
 ```
 
 ## Stage 1: Problem Submission
